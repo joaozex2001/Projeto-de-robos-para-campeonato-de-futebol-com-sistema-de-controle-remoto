@@ -1,7 +1,6 @@
 /*
     ESP-NOW Broadcast Master
-    Lucas Saavedra Vaz - 2024
-
+    
     This sketch demonstrates how to broadcast messages to all devices within the ESP-NOW network.
     This example is intended to be used with the ESP-NOW Broadcast Slave example.
 
@@ -159,5 +158,4 @@ void loop() {
         Serial.println("Failed to broadcast message");
     }
   }
-
 }
