@@ -1,5 +1,4 @@
-# TCC
-SISTEMA PARA CONTROLE DE ROBÔS PARA FUTEBOL DE ROBÔS
+PROJETO DE ROBÔS PARA CAMPEONATO DE FUTEBOL COM SISTEMA DE CONTROLE REMOTO
 
 Este repositório disponibiliza dois scripts. Responsáveis por compor um sistema de baixo custo, inspirados no futebol de robôs mini da RoboCore.
 
